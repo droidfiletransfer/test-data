@@ -240,6 +240,13 @@ You should see: the button and the icon in step 2. In step 3 a window without
 an address bar, the app's icon in the Dock, Help showing the deploy's stamp,
 and the phone connecting as in the tab.
 
+## If the phone does not connect
+
+If a red message says something else is holding the phone, double-click
+`who-holds-the-phone.command` with the phone plugged in. It prints the process
+that holds it; quit that app. `ptpcamerad` means a photo app such as Preview,
+Photos or Image Capture.
+
 ## Reporting
 
 Say which test, which step, and the exact text of any red message. Add the
